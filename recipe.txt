@@ -5,3 +5,4 @@ hot sauce
 cilantro
 jalapeno
 shallots
+garlic
